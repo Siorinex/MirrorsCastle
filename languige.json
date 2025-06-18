@@ -1,218 +1,186 @@
 {
-        { "GameName": 
+        "GameName": 
             {
                 {"ru": "Замок Зеркал 1"},
                 {"ja": "鏡の城 1"},
                 {"en": "Mirrors Castle 1"}
-            }
-        },
-        { "MirrorCenter":
+            },
+        "MirrorCenter":
             {
                 {"ru": "Демо зеркала"},
                 {"ja": "ミラーチェック"},
                 {"en": "Mirrors demo"}
-            }
-        },
-        { "MirrorCenterG":
+            },
+        "MirrorCenterG":
             {
                 {"ru": "не работает"},
                 {"ja": "動作しません"},
                 {"en": "d`t work"}
-            }
-        },
-        { "ExitPortal":
+            },
+        "ExitPortal":
             {
                 {"ru": "Выход"},
                 {"ja": "出口"},
                 {"en": "Exit"}
-            }
-        },
-        { "ExitPortalG":
+            },
+        "ExitPortalG":
             {
                 {"ru": "Зайдите, чтобы выйти"},
                 {"ja": "入力して終了します"},
                 {"en": "Enter for exit"}
-            }
-        },
-        { "txt.lbl.base_1_mission_1_1":
+            },
+        "txt.lbl.base_1_mission_1_1":
             {
                 {"ru": "Обучение 1"},
                 {"ja": "教育 1"},
                 {"en": "Training 1"}
-            }
-        },
-        { "txt.lbl.base_1_mission_1_3":
+            },
+        "txt.lbl.base_1_mission_1_3":
             {
                 {"ru": "Основы"},
                 {"ja": "基本"},
                 {"en": "Base"}
-            }
-        },
-        { "txt.lbl.base_1_mission_2_1":
+            },
+        "txt.lbl.base_1_mission_2_1":
             {
                 {"ru": "Обучение 2"},
                 {"ja": "教育 2"},
                 {"en": "Training 2"}
-            }
-        },
-        { "txt.lbl.base_1_mission_2_3":
+            },
+        "txt.lbl.base_1_mission_2_3":
             {
                 {"ru": "Отражение"},
                 {"ja": "鏡に映った姿"},
                 {"en": "Reflection"}
-            }
-        },
-        { "txt.lbl.base_1_mission_3_1":
+            },
+        "txt.lbl.base_1_mission_3_1":
             {
                 {"ru": "Обучение 3"},
                 {"ja": "教育 3"},
                 {"en": "Training 3"}
-            }
-        },
-        { "txt.lbl.base_1_mission_3_3":
+            },
+        "txt.lbl.base_1_mission_3_3":
             {
                 {"ru": "Время"},
                 {"ja": "時間"},
                 {"en": "Time"}
-            }
-        },
-        { "txt.lbl.base_1_mission_4_1":
+            },
+        "txt.lbl.base_1_mission_4_1":
             {
                 {"ru": "Обучение 4"},
                 {"ja": "教育 4"},
                 {"en": "Training 4"}
-            }
-        },
-        { "txt.lbl.base_1_mission_4_3":
+            },
+        "txt.lbl.base_1_mission_4_3":
             {
                 {"ru": "Гравитация"},
                 {"ja": "重力"},
                 {"en": "Gravity"}
-            }
-        },
-        { "txt.lbl.base_1_mission_5_1":
+            },
+        "txt.lbl.base_1_mission_5_1":
             {
                 {"ru": "Обучение 5"},
                 {"ja": "教育 5"},
                 {"en": "Training 5"}
-            }
-        },
-        { "txt.lbl.base_1_mission_5_3":
+            },
+        "txt.lbl.base_1_mission_5_3":
             {
                 {"ru": "Перспектива"},
                 {"ja": "視点"},
                 {"en": "Perspective"}
-            }
-        },
-        { "txt.lbl.base_1_mission_6_1":
+            },
+        "txt.lbl.base_1_mission_6_1":
             {
                 {"ru": "Обучение 6"},
                 {"ja": "教育 6"},
                 {"en": "Training 6"}
-            }
-        },
-        { "txt.lbl.base_1_mission_6_3":
+            },
+        "txt.lbl.base_1_mission_6_3":
             {
                 {"ru": "Искажение"},
                 {"ja": "ねじれ"},
                 {"en": "Distortion"}
-            }
-        },
-        { "txt.lbl.base_1_mission_7_1":
+            },
+        "txt.lbl.base_1_mission_7_1":
             {
                 {"ru": "Обучение 7"},
                 {"ja": "教育 7"},
                 {"en": "Training 7"}
-            }
-        },
-        { "txt.lbl.base_1_mission_7_3":
+            },
+        "txt.lbl.base_1_mission_7_3":
             {
                 {"ru": "Размеры"},
                 {"ja": "寸法"},
                 {"en": "Size"}
-            }
-        },
-        { "txt.lbl.base_1_mission_8_1":
+            },
+        "txt.lbl.base_1_mission_8_1":
             {
                 {"ru": "Обучение 8"},
                 {"ja": "教育 8"},
                 {"en": "Training 8"}
-            }
-        },
-        { "txt.lbl.base_1_mission_8_3":
+            },
+        "txt.lbl.base_1_mission_8_3":
             {
                 {"ru": "Порядок"},
                 {"ja": "語順"},
                 {"en": "Logic"}
-            }
-        },
-        { "txt.mirrors.q_school_1_1":
+            },
+        "txt.mirrors.q_school_1_1":
             {
                 {"ru": "Цель любой миссии - найти золотое зеркало и вернуться в замок!"},
                 {"en": "Target mission`s: found golden mirror and return to the castle!"}
-            }
-        },
-        { "txt.mirrors.q_school_2_1":
+            },
+        "txt.mirrors.q_school_2_1":
             {
                 {"ru": "Если не можешь преодолеть препятствие - зайди в отражение!"},
                 {"en": "If mission hard - found ease path in mirror!"}
-            }
-        },
-        { "txt.mirrors.q_school_3_1":
+            },
+        "txt.mirrors.q_school_3_1":
             {
                 {"ru": "Время в отражении может быть иным!"},
                 {"en": "Time in mirror - change!"}
-            }
-        },
-        { "txt.mirrors.q_school_4_1":
+            },
+        "txt.mirrors.q_school_4_1":
             {
                 {"ru": "Гравитация - константа?!"},
                 {"en": "Gravity - constant?!"}
-            }
-        },
-        { "txt.mirrors.q_school_5_1":
+            },
+        "txt.mirrors.q_school_5_1":
             {
                 {"ru": "Отражение может что-то приблизить или отдалить!"},
                 {"en": "Mirror change far and near!"}
-            }
-        },
-        { "txt.mirrors.q_school_6_1":
+            },
+        "txt.mirrors.q_school_6_1":
             {
                 {"ru": "Отражение может указать путь!"},
                 {"en": "Mirror - know DA WAY!"}
-            }
-        },
-        { "txt.mirrors.q_school_7_1":
+            },
+        "txt.mirrors.q_school_7_1":
             {
                 {"ru": "Отражение может менять размер!"},
                 {"en": "Mirror change size!"}
-            }
-        },
-        { "txt.mirrors.q_school_8_1":
+            },
+        "txt.mirrors.q_school_8_1":
             {
                 {"ru": "Отражение может что-то приблизить или отдалить!"},
                 {"en": "Mirror change far and near!"}
-            }
-        },
-        { "FloorLava":
+            },
+        "FloorLava":
             {
                 {"ru": "Пол - это лава!"},
                 {"ja": "床は溶岩です!"},
                 {"en": "Floor is lava!"}
-            }
-        },
-        { "FloorLama":
+            },
+        "FloorLama":
             {
                 {"ru": "Пол - это лама!"},
                 {"ja": "ポールはラマです!"},
                 {"en": "Floor is llama!"}
-            }
-        },
-        { "Test":
+            },
+        "Test":
             {
                 {"ru": "Тест"},
                 {"ja": "検査"},
                 {"en": "Test"}
             }
-        }
 }
