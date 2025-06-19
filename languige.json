@@ -5,6 +5,16 @@
                 "ja": "鏡の城 1",
                 "en": "Mirrors Castle 1"
             },
+        "Hello": 
+            {
+                "ru": "Приветствую,",
+                "en": "Hello,"
+            },
+        "In": 
+            {
+                "ru": "в",
+                "en": "in"
+            },
         "MirrorCenter":
             {
                 "ru": "Демо зеркала",
