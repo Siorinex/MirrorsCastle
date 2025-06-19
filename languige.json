@@ -11,6 +11,16 @@
                 "ja": "ミラーチェック",
                 "en": "Mirrors demo"
             },
+        "ManNames":
+            {
+                "ru": "Мужские имена",
+                "en": "Man names"
+            },
+        "WomanNames":
+            {
+                "ru": "Женские имена",
+                "en": "Woman names"
+            },
         "MirrorCenterG":
             {
                 "ru": "не работает",
